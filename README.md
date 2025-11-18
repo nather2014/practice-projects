@@ -1,2 +1,0 @@
-# practice-projects
-practice-projects
